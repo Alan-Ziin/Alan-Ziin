@@ -23,6 +23,4 @@ Olá! Meu nome é Alan Sales! Graduado em Análise e Desenvolvimento de Sistemas
 
 ## 📊 GitHub Stats:
 
-![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alan-Ziin&show_icons=true&theme=dark)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Alan-Ziin&theme=dark)
