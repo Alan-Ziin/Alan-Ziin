@@ -21,13 +21,6 @@ Olá! Meu nome é Alan Sales! Graduado em Análise e Desenvolvimento de Sistemas
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-## 📌 Projetos em Destaque:
-
-### 🔎 Detecção de Fraudes | Python, Scikit-learn, Pandas
-Pipeline completo de Machine Learning para detecção de transações fraudulentas, com pré-processamento, análise exploratória e tratamento de dados desbalanceados. Comparação de algoritmos de classificação otimizados para Precision, Recall e AUC-ROC.
-
-🔗 [github.com/Alan-Ziin/fraud-detection](https://github.com/Alan-Ziin/fraud-detection)
-
 ## 📊 GitHub Stats:
 
 ![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alan-Ziin&show_icons=true&theme=dark)
